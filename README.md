@@ -1,10 +1,10 @@
-# Task1 FileHandlingUtility
+# Task2 REST API Client
 
-Program to read, write, and modify text files.
+Java application that consumes a public REST API and parses JSON.
 
 ## How to Run
 
 1. Compile the Java file:
-   ```javac FileHander.java```
+   ```javac YourFileName.java```
 2. Run the program:
-   ```java FileHander```
+   ```java YourFileName```
