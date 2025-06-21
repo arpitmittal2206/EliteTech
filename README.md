@@ -1,6 +1,6 @@
-# Task2 REST API Client
+# Task3 MultithreadedChatApp
 
-Java application that consumes a public REST API and parses JSON.
+Client-server chat application using sockets and multithreading.
 
 ## How to Run
 
