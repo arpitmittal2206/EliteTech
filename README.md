@@ -1,6 +1,6 @@
-# Task3 MultithreadedChatApp
+# Task4 RecommendationSystem
 
-Client-server chat application using sockets and multithreading.
+AI-based product recommendation system in Java.
 
 ## How to Run
 
